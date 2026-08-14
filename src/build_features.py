@@ -16,7 +16,8 @@ def build_customer_features() -> None:
     for name, df in tables.items():
         con.register(name, df)
 
-    query = """
+    query = """git log --oneline
+    
     WITH orders_customers AS (
         SELECT
             o.order_id,
@@ -100,3 +101,4 @@ def build_customer_features() -> None:
 
 if __name__ == "__main__":
     build_customer_features()
+    
