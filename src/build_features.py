@@ -16,7 +16,7 @@ def build_customer_features() -> None:
     for name, df in tables.items():
         con.register(name, df)
 
-    query = """git log --oneline
+    query = """
     
     WITH orders_customers AS (
         SELECT
