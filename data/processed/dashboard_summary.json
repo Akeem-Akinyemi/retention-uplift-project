@@ -1,0 +1,12 @@
+{
+  "n_customers_evaluated": 16772,
+  "qini_coefficient": 33.88025511550382,
+  "avg_predicted_uplift": 0.040538634809451905,
+  "avg_true_uplift": 0.041038491544102766,
+  "benefit_captured_at_10pct": 0.256,
+  "benefit_captured_at_20pct": 0.38799999999999996,
+  "benefit_captured_at_30pct": 0.469,
+  "benefit_captured_at_50pct": 0.622,
+  "baseline_roc_auc": 0.5727,
+  "baseline_pr_auc": 0.0468
+}
