@@ -8,7 +8,7 @@ Most e-commerce customers only buy once. Blasting everyone with a retention disc
 ## Key Result
 Targeting the top 20% of customers by predicted uplift captures **38.8% of total campaign benefit** — nearly 2x more efficient than random discounting, at a fraction of the cost.
 
-![Targeting Efficiency](data/processed/targeting_efficiency.png)
+![Targeting Efficiency](docs/images/targeting_efficiency.png)
 
 ## What's Inside
 | Step | What it covers |
